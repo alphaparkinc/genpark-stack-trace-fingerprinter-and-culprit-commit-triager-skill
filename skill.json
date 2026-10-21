@@ -1,0 +1,8 @@
+{
+  "name": "genpark-stack-trace-fingerprinter-and-culprit-commit-triager-skill",
+  "version": "1.0.0",
+  "description": "Multi-language stack trace normalizer, deterministic error fingerprinter, and regression culprit commit triager",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
